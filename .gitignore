@@ -1,0 +1,6 @@
+*.pyc
+.settings/
+.pydevproject
+.project
+django_telepay.egg-info/
+.DS_Store
